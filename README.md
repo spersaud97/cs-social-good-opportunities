@@ -10,3 +10,4 @@ A collection of social good focused roles.
 ## Open Applications
 | Company | Position | Location | Link |
 | --- | --- | --- | --- |
+|Oscar Health|Summer 2020 Internship|NYC|https://www.hioscar.com/careers/1845429|
